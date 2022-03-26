@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+    
+}
+
+.red-color{
+    color: #EB6076;
+}
+
+p{
+    font-size: 16px;
+    font-weight : normal;
+    color: #828282;
+    margin-bottom: 42px;
+}
+
+.click-link{
+    background-image:linear-gradient(to right, #EB6076, red);
+    color: white;
+    text-decoration: none;
+    padding: 15px 35px 15px;
+    border-radius: 25px;
+}
+
+.floating-part{
+    display: flex;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 8%;
+    padding-top: 5%;
+}
+
+.half-width img{
+    width: 80%;
+}
