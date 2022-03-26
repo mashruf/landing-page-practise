@@ -21,10 +21,14 @@ p{
 
     
     line-height: 30px;
-    width: 80%;
     font-weight : 400;
     color: #828282;
     margin-bottom: 60px;
+}
+
+
+.half-width p{
+    width: 80%;
 }
 
 .click-link{
@@ -75,3 +79,16 @@ h2{
     font-weight: 700;
     color: #676767;
 }
+
+.recipie-header{
+    text-align: center;
+}
+
+.recipie-header p{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+
+
+
