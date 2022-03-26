@@ -5,8 +5,10 @@ body{
 }
 
 h1{
-    font-size: 60px;
+
+    font-size: 50px;
     font-weight: 700;
+    
     
 }
 
@@ -16,31 +18,41 @@ h1{
 
 p{
 
+    
+    line-height: 30px;
+    width: 80%;
     font-weight : 400;
     color: #828282;
-    margin-bottom: 45px;
+    margin-bottom: 60px;
 }
 
 .click-link{
+    
     background-image:linear-gradient(to right, #EB6076, red);
     color: white;
     text-decoration: none;
-    padding: 15px 35px 15px;
-    border-radius: 25px;
+    padding: 20px 35px 20px;
+    border-radius: 30px;
     box-shadow: 0 0 15px 1px #fca39d;
     
 }
 
 .floating-part{
     display: flex;
+    margin-bottom: 100px;
 }
 
 .half-width{
     width: 50%;
-    padding-left: 8%;
-    padding-top: 5%;
+    padding-left: 3%;
+    padding-top: 10%;
 }
 
 .half-width img{
-    width: 80%;
+    width: 97%;
+}
+
+.half-width h1{
+    padding-top: 15%;
+    
 }
