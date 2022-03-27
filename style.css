@@ -89,8 +89,16 @@ h2{
     margin-right: 25%;
 }
 
+.recipie-part{
+    width: 90%;
+    margin-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
 .recipie{
-    width: 40%;
+    width: 30%;
     margin-left: 5%;
     margin-right: 5%;
     box-shadow: 10px 10px 40px grey;
@@ -119,4 +127,27 @@ h3{
 .recipie p{
     color: black;
 }
+
+.social-part{
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+}
+
+.social{
+    width: 30%;
+    text-align: center;
+    padding-left: 5%;
+}
+
+.social p{
+    color: black;
+}
+
+
 
