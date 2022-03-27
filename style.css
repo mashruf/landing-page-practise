@@ -149,5 +149,29 @@ h3{
     color: black;
 }
 
+.social h2{
+    color: black;
+}
+
+footer{
+    text-align: center;
+    background-color: #0B0D17;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    
+}
+
+footer p{
+    color: white;
+}
+
+.food-color{
+    color: #EB6076;
+}
+
+.network-color{
+    color: #5B5B5B;
+}
+
 
 
