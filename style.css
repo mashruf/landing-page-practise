@@ -23,7 +23,7 @@ p{
     line-height: 30px;
     font-weight : 400;
     color: #828282;
-    margin-bottom: 60px;
+    margin-bottom: 40px;
 }
 
 
@@ -89,6 +89,34 @@ h2{
     margin-right: 25%;
 }
 
+.recipie{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
 
 
+.recipie-img{
+    width: 100%;
+}
+
+h3{
+    font-size: 40px;
+    font-weight: 700;
+    
+
+}
+
+.recipie-header p{
+    color: black;
+}
+
+.recipie p{
+    color: black;
+}
 
